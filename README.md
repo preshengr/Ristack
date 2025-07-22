@@ -48,8 +48,6 @@
 
 ## 🛠️ Technologies Used
 
-> _(Optional section — can be filled when tech stack is finalized)_
-
 - React Native / Flutter (Mobile App)
 - Node.js / Express.js (Backend)
 - MongoDB / PostgreSQL (Database)
